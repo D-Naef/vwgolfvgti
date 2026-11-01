@@ -22,41 +22,50 @@
 
 ---
 
-## 🔧 Werkzeug-Checkliste
+## 🔧 Werkzeug-Checkliste (mit Größen)
 
-- [ ] Wagenheber + **Unterstellböcke** (zwingend!)
-- [ ] Radkreuz
-- [ ] **Drehmomentschlüssel**
-- [ ] Steckschlüsselsatz + Ratsche + lange Verlängerung
-- [ ] Vielzahn-/Torx-Bits (Bremssattel & Nabenschrauben)
-- [ ] Innensechskant-Bits
-- [ ] Abzieher / Gleithammer (falls Nabe festsitzt)
-- [ ] Drahtbürste
-- [ ] Bremsenreiniger
-- [ ] Kupfer-/Montagepaste
-- [ ] Neue Radnabe hinten (1K0 598 611, mit ABS-Ring)
-- [ ] **Neue selbstsichernde Bremssattel-Schrauben** (Einweg!)
+| Werkzeug | Größe / Spezifikation | Wofür |
+|----------|-----------------------|-------|
+| [ ] Wagenheber + **Unterstellböcke** | — | Fahrzeug sichern (zwingend!) |
+| [ ] Radkreuz / Nuss | **SW 17** (Radschrauben Golf V) | Rad ab/anschrauben |
+| [ ] **Drehmomentschlüssel** | Bereich ~20–140 Nm | alle Anzugsmomente |
+| [ ] Ratsche 1/2" + lange Verlängerung | — | Zugang Nabe/Bremse |
+| [ ] **Vielzahn-Bit (XZN)** | **M14 (XZN)** | Radnaben-Schrauben hinten |
+| [ ] **Innensechskant (Inbus)** | **7 mm** | Bremssattel-Führungsbolzen hinten |
+| [ ] Maul-/Ringschlüssel | **SW 15** (Gegenhalten Führungsbolzen) | Bremssattel |
+| [ ] Nuss / Vielzahn | **SW 18 / M12** | Bremssattelhalter hinten |
+| [ ] Torx | **T30 / T25** | Bremsscheiben-Feststellschraube |
+| [ ] Abzieher / Gleithammer | — | Nabe bei Festsitz |
+| [ ] Drahtbürste, Bremsenreiniger | — | Reinigen |
+| [ ] Kupfer-/Montagepaste | — | Auflagefläche |
+| [ ] Neue Radnabe hinten | 1K0 598 611 (mit ABS-Ring) | Ersatzteil |
+| [ ] **Neue selbstsichernde Bremssattel-Schrauben** | Einweg! | Ersatzteil |
+
+> ⚠️ **Werkzeuggrößen sind typische Golf-V-Werte** und können je nach Ausstattung/Hersteller
+> leicht abweichen. Vor dem Lösen kurz die Schraube/den Kopf prüfen (Bit/Nuss ansetzen).
+> **SW = Schlüsselweite in mm.**
 
 ---
 
-## 📋 Arbeitsschritte
+## 📋 Arbeitsschritte (mit Werkzeug + Drehmoment)
 
 ### 1. Fahrzeug sichern
 - [ ] Ebener Grund, Handbremse an, Gang einlegen
-- [ ] Radschrauben **lösen** (noch am Boden, nicht ganz raus)
+- [ ] Radschrauben **lösen** (noch am Boden, nicht ganz raus) → **Nuss SW 17**
 - [ ] Aufbocken + sicher auf **Unterstellböcke** absetzen
 - [ ] Rad abnehmen
 
 ### 2. Bremse demontieren
-- [ ] Bremssattel abschrauben, zur Seite hängen (**Schlauch nicht knicken / belasten!**)
-- [ ] Bremssattelhalter abschrauben
-- [ ] Bremsscheibe abnehmen (ggf. kleine Feststellschraube lösen)
+- [ ] Bremssattel-**Führungsbolzen** lösen → **Inbus 7 mm** (ggf. mit **SW 15** gegenhalten)
+- [ ] Bremssattel abnehmen, zur Seite hängen (**Schlauch nicht knicken / belasten!**)
+- [ ] **Bremssattelhalter** abschrauben → **Nuss/Vielzahn SW 18 / M12**
+- [ ] Bremsscheibe abnehmen (ggf. Feststellschraube **Torx T30** lösen)
 
 ### 3. ABS-Sensor
-- [ ] ABS-Sensor vorsichtig lösen / Stecker trennen (nicht beschädigen)
+- [ ] ABS-Sensor vorsichtig lösen → oft **Inbus 5 mm** oder Torx; Stecker trennen (nicht beschädigen)
 
 ### 4. Radnabe entfernen
-- [ ] 4 Schrauben der Nabe (Rückseite Achsschenkel) herausdrehen
+- [ ] 4 Nabenschrauben (Rückseite Achsschenkel) herausdrehen → **Vielzahn M14 (XZN)**
 - [ ] Nabe abziehen (bei Festsitz: Abzieher / leichte Gummihammerschläge)
 
 ### 5. Auflagefläche reinigen
@@ -65,13 +74,15 @@
 
 ### 6. Neue Radnabe montieren
 - [ ] Dünn Montagepaste auf Auflagefläche (NICHT auf Lager/ABS-Ring)
-- [ ] Nabe ansetzen, Schrauben **über Kreuz** anziehen, Drehmoment beachten
+- [ ] Nabe ansetzen, 4 Schrauben **über Kreuz** → **ca. 70 Nm** (Vielzahn M14)
 
 ### 7. Zusammenbau (umgekehrte Reihenfolge)
-- [ ] ABS-Sensor einsetzen
-- [ ] Bremsscheibe, Bremssattelhalter, Bremssattel (neue Schrauben!) montieren
-- [ ] Rad aufsetzen, Schrauben handfest
-- [ ] Fahrzeug ablassen, dann mit Drehmoment festziehen
+- [ ] ABS-Sensor einsetzen (ggf. mit etwas Paste), Stecker einrasten
+- [ ] Bremsscheibe auf Nabe, Feststellschraube **Torx T30** → **ca. 4 Nm**
+- [ ] Bremssattelhalter → **ca. 65 Nm** (SW 18 / M12) – **neue Schrauben**
+- [ ] Bremssattel / Führungsbolzen → **ca. 35 Nm** (Inbus 7 mm) – **neue Schrauben**
+- [ ] Rad aufsetzen, Schrauben handfest (SW 17)
+- [ ] Fahrzeug ablassen, dann Radschrauben über Kreuz → **120 Nm**
 
 ### 8. Abschluss & Kontrolle
 - [ ] **Bremspedal mehrfach pumpen** bis Druckpunkt da (VOR dem Losfahren!)
@@ -80,18 +91,22 @@
 
 ---
 
-## 🔩 Anzugsdrehmomente (hinten)
+## 🔩 Anzugsdrehmomente + Werkzeug (Übersicht, hinten)
 
-| Verschraubung | Drehmoment | Hinweis |
-|---------------|-----------|---------|
-| **Radschrauben** | **120 Nm** | offiziell (VW-Betriebsanleitung) |
-| Radnabe an Achsschenkel (4 Schrauben) | ca. **70 Nm** | ⚠️ Richtwert – im Reparaturleitfaden prüfen |
-| Bremssattelhalter hinten | ca. **65 Nm** | ⚠️ Richtwert – selbstsichernde Schrauben erneuern |
-| Bremssattel an Halter hinten | ca. **35 Nm** | ⚠️ Richtwert – neue selbstsichernde Schrauben |
+| Verschraubung | Werkzeug | Drehmoment | Hinweis |
+|---------------|----------|-----------|---------|
+| **Radschrauben** | Nuss **SW 17** | **120 Nm** | ✅ offiziell (VW-Betriebsanleitung) |
+| Radnabe an Achsschenkel (4×) | **Vielzahn M14 (XZN)** | ca. **70 Nm** | ⚠️ Richtwert – Leitfaden prüfen |
+| Bremssattelhalter hinten | **Nuss/Vielzahn SW 18 / M12** | ca. **65 Nm** | ⚠️ Richtwert – neue Schrauben |
+| Bremssattel/Führungsbolzen hinten | **Inbus 7 mm** (+ SW 15 gegenhalten) | ca. **35 Nm** | ⚠️ Richtwert – neue Schrauben |
+| Bremsscheiben-Feststellschraube | **Torx T30** | ca. **4 Nm** | nur handfest + bisschen |
+| ABS-Sensor-Halteschraube | Inbus 5 mm / Torx | ca. **8 Nm** | ⚠️ Richtwert |
 
-> ⚠️ Nur **120 Nm (Radschrauben)** sind offiziell belegt. Die übrigen Werte sind Richtwerte –
-> für diese sicherheitskritischen Schrauben die exakten Werte aus einem fahrzeugspezifischen
-> Reparaturleitfaden (VW ELSA/ETKA, "So wird's gemacht", Haynes) bestätigen.
+> ⚠️ **Nur 120 Nm (Radschrauben) sind offiziell belegt.** Alle übrigen Nm-Werte UND die
+> Werkzeuggrößen sind erfahrungsbasierte Richtwerte für den Golf V – für diese
+> sicherheitskritischen Schrauben die exakten Werte/Größen aus einem fahrzeugspezifischen
+> Reparaturleitfaden (VW ELSA/ETKA, "So wird's gemacht", Haynes) bestätigen und ggf. Bit/Nuss
+> vorher an der Schraube prüfen.
 
 ---
 
@@ -356,6 +371,18 @@ Quellen: autopartsonline.de (Ø 282 mm), motor-talk.de (GTI Ø 286 mm), bandel-o
 - Erstausrüster: ATE, TRW/Lucas, Bosch, Brembo
 - P/L: Zimmermann (Scheiben), Febi
 - Immer achsweise (beide Seiten) wechseln
+
+## Werkzeug + Drehmomente Bremse hinten
+| Verschraubung / Schritt | Werkzeug | Drehmoment |
+|-------------------------|----------|-----------|
+| Bremssattel-Führungsbolzen | **Inbus 7 mm** (+ SW 15 gegenhalten) | ca. **35 Nm** |
+| Bremssattelhalter | **Nuss/Vielzahn SW 18 / M12** | ca. **65 Nm** |
+| Scheiben-Feststellschraube | **Torx T30** | ca. **4 Nm** |
+| Radschrauben | Nuss **SW 17** | **120 Nm** |
+
+> Kolben beim Belagwechsel hinten **zurückdrehen** (Feststellbremse!) – spezielles
+> Rückstellwerkzeug für Golf V erforderlich (drehen + drücken, nicht nur drücken).
+> Nur 120 Nm offiziell belegt, übrige Werte Richtwerte.
 
 ---
 
