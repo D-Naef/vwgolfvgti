@@ -8,7 +8,7 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
   - Radnabe hinten wechseln (Anleitung, Werkzeug, Drehmomente)
   - ABS-/Raddrehzahlsensor mit Multimeter prüfen
   - Teilenummern (Radnabe, ABS-Sensor beide Seiten, Bremse)
-  - Beste Teilelieferanten
+  - Bevorzugte Teilelieferanten (motointegrator.de, bandel-online.de, kfzteile24.de; **kein** AUTODOC)
   - Bremsscheiben hinten (272 / 282 mm) + PR-Nummern
   - Kosten- & Zeitschätzung
   - Einkaufsliste (beide Seiten)

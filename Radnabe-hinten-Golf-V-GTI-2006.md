@@ -229,18 +229,29 @@ ABS-Lampe an
 
 # Beste Teilelieferanten (Deutschland)
 
+## ⭐ Bevorzugte Lieferanten (persönliche Auswahl)
+
+| Shop | Hinweis |
+|------|---------|
+| **motointegrator.de** | bevorzugt |
+| **bandel-online.de** | bevorzugt |
+| **kfzteile24.de** | bevorzugt – großer Shop, schneller Versand (oft gleicher Werktag) |
+
+**Nicht verwenden: AUTODOC (autodoc.de).** Autodoc wird nur noch als **Informationsquelle**
+(Maße, OE-Nummern, Preisrichtwerte) in den Quellenlisten genannt, nicht als Bezugsquelle.
+Bestellen immer über **FIN** oder **OEM-Nummer** und mit geprüfter Einbauposition.
+
+## Weitere Shops (nicht bevorzugt, nur zur Info)
+
 | Shop | Stärken | Hinweis |
 |------|---------|---------|
-| **kfzteile24.de** | Großer Shop, schneller Versand (oft gleicher Werktag), mehrfach ausgezeichnet | gute Verfügbarkeit, zuverlässig |
-| **AUTODOC (autodoc.de)** | Sehr günstig, riesige Auswahl, viele Marken | Versand teils länger (Lager in EU) – früh bestellen |
-| **pkwteile.de** | Günstig, großes Sortiment (AUTODOC-Gruppe) | ähnlich wie Autodoc |
+| **pkwteile.de** | Günstig, großes Sortiment | gehört zur AUTODOC-Gruppe – bei Bedarf ebenfalls meiden |
 | **autoersatzteile.de** | Gute OEM-Suche, Markenware | solide |
 | **ATP-autoteile.de** | Markenware, gute Beratung/Blog | etwas teurer |
 | **Lokaler Teilehändler / VW-Werkstatt** | Sofort verfügbar, Beratung, Originalteile | teurer, aber bei Eile/Beratung top |
 
 ## Empfehlung
-- **Preis + Auswahl:** AUTODOC / pkwteile.de (etwas Geduld beim Versand)
-- **Schnelligkeit + Zuverlässigkeit:** kfzteile24.de
+- **Standard:** motointegrator.de, bandel-online.de oder kfzteile24.de
 - **Sofort/Beratung:** lokaler Händler oder VW-Autohaus
 - Immer über **FIN** oder **OEM-Nummer** bestellen, Einbauposition (Hinterachse links) prüfen
 
