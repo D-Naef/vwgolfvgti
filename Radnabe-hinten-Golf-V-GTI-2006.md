@@ -777,3 +777,48 @@ für Polycarbonat freigegebenen Primer wählen.
 - Anleitung Kunststoff-Scheinwerfer polieren: https://www.motointegrator.de/blog/kunststoff-scheinwerfer-polieren-so-gehts-schritt-fuer-schritt/
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# 🔧 Fahrwerk: Stoßdämpfer, Koppelstangen, Fahrwerkslager (Golf V GTI)
+
+> Status: Nummern stammen aus **Händlerlisten** (autodoc, pkwteile u. a., nur als Info-Quelle), **nicht**
+> per FIN/PR-Nummer bestätigt ⚠️. Der GTI hat ein **Sportfahrwerk** – Dämpfer unterscheiden sich je nach
+> Fahrwerksvariante (PR-Nummer). Vor dem Bestellen mit **FIN / PR-Nummer** beim VW-Händler abgleichen.
+> Dämpfer und Lager **achsweise** wechseln.
+
+## Teilenummern
+
+| Teil | OE-Nummer | Status |
+|------|-----------|--------|
+| **Koppelstange vorne** | 1K0 411 315 K, 1K0 411 315 R (alt. 5Q0 411 315 A) | ⚠️ Händlerlisten für den GTI |
+| **Koppelstange hinten** | 1K0 505 465 C, 1K0 505 465 K, 1K0 505 465 AA | ⚠️ Händlerlisten |
+| **Federbein/Stoßdämpfer vorne** | 1K0 413 031 BH (Beispiel aus Händlerliste) | ⚠️ Zuordnung zum GTI nicht bestätigt |
+| **Stoßdämpfer hinten** | 1K0 513 029 HM, 1K0 513 029 EN, 1K0 513 029 FG | ⚠️ Händlerlisten (Forum: FG maßgeblich bei einem Golf 5 mit Sportfahrwerk) |
+| **Domlager / Federbeinstützlager vorne** | 1K0 412 331 B, 1K0 412 331 C | ⚠️ Händlerlisten |
+| **Dämpferlager hinten** | 1K0 513 353 R, 1K0 513 353 H, 1K0 513 353 J | ⚠️ Händlerliste |
+| **Querlenkerlager** | keine Nummer gefunden | ❌ |
+
+## Bestellhinweise bei den bevorzugten Shops (motointegrator.de, bandel-online.de, kfzteile24.de)
+
+Status: ✅ = Produktseite gefunden, 🔎 = Kategorie/Hinweis, ❌ = kein Treffer. **Passform, Preis und Verfügbarkeit
+nicht geprüft.**
+
+| Teil | Shop | Hinweis | Status |
+|------|------|---------|--------|
+| Domlager hinten | bandel-online.de | FEBI Federbeinstützlager hinten, "Golf 5 6": https://www.bandel-online.de/fahrwerk/domlager/2x-febi-federbeinstuetzlager-domlager-hinten-audi-a3-cabrio-8p7-vw-golf-5-6.html | ✅ |
+| Stoßdämpfer-Sets | bandel-online.de | Kategorie Stoßdämpfer-Komplettsets: https://www.bandel-online.de/fahrwerk/stossdaempfer/stossdaempfer-sets-vorne-hinten.html (nach Golf 5 / GTI filtern, Sportfahrwerk beachten) | 🔎 |
+| Dämpfer + Domlager + Koppelstangen (MEYLE HD) | bandel-online.de | https://www.bandel-online.de/fahrwerk/stossdaempfer/meyle-stossdaempfer-domlager-hd-koppelstangen-vw-golf-passat-touran-skoda-octavia.html – Passform für Golf 5 GTI im Shop prüfen | 🔎 ⚠️ |
+| Koppelstange | motointegrator.de | TRW Stabilisator-Stange JTS484 (Audi/Seat/Skoda): https://m.motointegrator.de/artikel/475437-stangestrebe-stabilisator-trw-jts484 – Passform für Golf 5 GTI **nicht bestätigt** | 🔎 ⚠️ |
+| Domlager vorne | motointegrator.de | nur Ratgeber (Symptome): https://www.motointegrator.de/blog/federbeinstuetzlager-defekt/ | ❌ Produkt |
+| Domlager/Dämpfer/Koppelstange | kfzteile24.de | kein Treffer gefunden | ❌ |
+
+➡️ Praktisch: in den Shops per OE-Nummer (siehe Tabelle oben) und Fahrzeugauswahl (Golf V 1K1, 2.0 TFSI) suchen.
+Marken-Tipps (Einschätzung, nicht getestet): Bilstein, Sachs, Febi, Lemförder, Meyle HD.
+
+## Zusammenhang MFK
+Stoßdämpfer (Leckage, Nachschwingen), Koppelstangen und Fahrwerkslager (Poltern) sind typische
+MFK-Prüfpunkte laut einer privaten Checkliste (reifen.com) – eine offizielle Liste des Strassenverkehrsamts
+wurde nicht gefunden ⚠️.
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
