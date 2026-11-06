@@ -701,3 +701,67 @@ Marken-Tipp (siehe Heckwischer-Abschnitt): Original VW, dann METZGER; VAICO nich
 - [ ] Scheibengröße hinten gemessen (282 vs. 272 mm)
 - [ ] Nur Frontantrieb-Nummern (nicht 4motion)
 - [ ] Heckwischerarm: Schrägheck (1K1), nicht Variant (1K5)
+
+---
+
+# 💡 Scheinwerfer aufbereiten: Schleifen, Primer, Klarlack (Golf V, Frontscheinwerfer)
+
+> Status: Zusammenfassung aus Hersteller- und Händlerangaben, **keine** unabhängigen Tests.
+> Körnungen und Trockenzeiten **nicht** aus dieser Doku übernehmen, sondern aus der Anleitung des
+> gewählten Produkts. ⚠️ = nicht geprüft.
+
+## Material der Streuscheibe
+- Streuscheibe = **Polycarbonat** (transparenter Kunststoff), **kein Glas** ⚠️ (allgemeiner Stand der
+  Technik, keine VW-Quelle speziell für den Golf V gefunden).
+- Werkseitig mit **UV-Schutzlack** beschichtet. Ist dieser verwittert, wird die Scheibe matt/vergilbt.
+- Nach dem Schleifen/Polieren ist die Schutzschicht weg → **neu versiegeln** (sonst kehrt die
+  Mattigkeit schnell zurück).
+
+## Ablauf
+1. Scheinwerfer ausbauen oder Karosserie/Umgebung sauber abkleben.
+2. Schleifen (nass, von grob nach fein) bis die Fläche gleichmäßig matt ist.
+3. Gründlich reinigen und entfetten.
+4. **Primer** (Haftvermittler für Polycarbonat) – oder Produkt mit integriertem Primer (siehe unten).
+5. **2K-Scheinwerfer-Klarlack** in dünnen Schichten, laut Herstellerangabe aushärten lassen.
+6. Optional nach dem Aushärten anpolieren.
+
+## Produkte (Herstellerangaben)
+
+| Zweck | Produkt | Hinweis |
+|-------|---------|---------|
+| Primer | **Mipa WBS PC-Primer-Spray** (400 ml) | farbloser, **wasserbasierter** Haftvermittler speziell für Polycarbonat; löst die Scheibe nicht an |
+| Set (abgestimmt) | **SprayMax Scheinwerfer Set** (Aqua-Haftvermittler + 2K-Klarlack) | Komplettlösung vom selben Hersteller |
+| Klarlack mit Primer | **SprayMax 2K 2in1 Scheinwerfer Klarlack** (250 ml) | Shop: keine separate Grundierung nötig |
+| Klarlack | **ColorMatic 2K Scheinwerfer-Klarlack** | 2K, UV-Schutz, Aktivierung der Dose nötig |
+| Set | **Kent Lights Clear Coat Kit** | für Kunststoff/Polycarbonat/Makrolon-Scheinwerfer |
+
+**Empfehlung (Einschätzung):** SprayMax-Set mit Primer – oder den 2in1-Klarlack, wenn weniger Produkte
+gewünscht sind. Beim Mischen verschiedener Hersteller ist die Verträglichkeit **nicht belegt** ⚠️.
+Lösemittelhaltige Primer können Polycarbonat angreifen ⚠️ (allgemeines Wissen) → wasserbasierten,
+für Polycarbonat freigegebenen Primer wählen.
+
+## Bezug
+- Gefundene Anbieter sind Lackspezialisten (123lack.de, autolackcenter.de, lackversand.de,
+  spraydosen-online.de) – **nicht** die bevorzugten Shops (motointegrator, bandel-online, kfzteile24).
+- Bei den bevorzugten Shops wurde **kein** Primer/Klarlack gefunden (bandel-online: Sonax-Scheinwerferpolitur;
+  motointegrator: nur Ratgeber). Ob sie die Produkte führen, vor dem Kauf selbst prüfen.
+
+## Hinweise
+- **Nicht tönen/färben:** dunkle oder gefärbte Lackierung der Scheibe ist heikel, bei der MFK ein Risiko.
+  Schweizer Vorgaben dazu wurden **nicht** recherchiert ⚠️.
+- Matte/verwitterte Scheiben können bei der Prüfung Probleme machen (Österreich: schwerer Mangel; Schweiz
+  nicht geprüft ⚠️).
+- 2K-Lacke: Handschuhe, Atemschutz, gute Belüftung. Keine aggressiven Reiniger/Lösungsmittel auf der Scheibe.
+- Alternative: Scheinwerfer austauschen (aufwendiger, aber nachhaltig).
+
+## Quellen
+- Mipa WBS PC-Primer: https://www.mipa-paints.com/d/product/prodinfo/produkt200680.html
+- SprayMax Set mit Primer: https://spraydosen-online.de/SprayMax-Scheinwerfer-Set-Primer-Klarlack-SprayMax-250ml-inkl-Haerter-Lackspray-Klarlack-glaenzend
+- SprayMax 2in1 Klarlack: https://www.123lack.de/spraymax-2in1-scheinwerfer-klarlack-2k-spraydose-250ml
+- ColorMatic 2K Klarlack: https://www.123lack.de/2k-scheinwerfer-klarlack-spray-200ml-colormatic
+- Kent Lights Clear Coat Kit: https://www.kenteurope.com/produkt/lights-clear-coat-kit/
+- Polieren + UV-Versiegelung: https://motor-kompakt.de/scheinwerfer-polieren-anleitung/
+- Polycarbonat/Kunststoff statt Glas: https://www.mission-hochglanz.de/matte-scheinwerfer-glaenzend-aufbereiten-schleifen-und-polieren/ und https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/licht-und-beleuchtung/scheinwerfer-polieren/
+- Anleitung Kunststoff-Scheinwerfer polieren: https://www.motointegrator.de/blog/kunststoff-scheinwerfer-polieren-so-gehts-schritt-fuer-schritt/
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*

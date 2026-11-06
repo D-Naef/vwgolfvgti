@@ -16,6 +16,7 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
   - Radsensor mit VCDS testen (Steuergerät 03)
   - Bestellempfehlung mit Links bei motointegrator.de, bandel-online.de, kfzteile24.de
   - Einkaufsliste mit Shop-Priorität (Hinterachse, Vorderachse, Heckwischer) und Checkliste
+  - Scheinwerfer aufbereiten (Polycarbonat): Schleifen, Primer, 2K-Klarlack
   - Heckwischer: Teilenummern (Arm 6Q6 955 707 C, Blatt, Motor) und Marken
 
 ## Schnellübersicht Teile (hinten)
