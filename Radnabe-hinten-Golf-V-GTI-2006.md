@@ -885,3 +885,119 @@ Zahnriemen → repareo als verlässlicher einstufen ⚠️.
 - TCS MFK-Vortest Aargau: https://www.tcs.ch/de/der-tcs/sektionen/aargau/content/fahrzeugkontrollen/tcs-mfk-vortest.php
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# 🛞 Bremse vorne (Golf V GTI, Frontantrieb)
+
+> Gleicher Aufbau wie "Bremse hinten": Varianten, Teilenummern, PR-Nummern, Drehmomente, Marken, Preise,
+> Einkaufsliste. Dicken/Verschleißgrenzen stehen im Abschnitt "Bremsscheiben & Bremsbeläge – Dicken und
+> Verschleißgrenzen". Status: ✅ = in Quelle gefunden, ⚠️ = Händler-/Forenangabe oder Einschätzung,
+> ❌ = nicht gefunden. Sicherheitsrelevant (Bremse!) – im Zweifel Werkstatt.
+
+## Bremsscheiben vorne – Varianten
+> ⚠️ Vorne gibt es beim Golf V mehrere Größen. Die **PR-Nummer** entscheidet. **Eigene Scheibe nachmessen**
+> (Außendurchmesser) oder per FIN prüfen.
+
+| Variante | Durchmesser × Dicke | Typ | Status |
+|----------|---------------------|-----|--------|
+| **GTI / stärkere Motoren** | **312 × 25 mm** | belüftet, 5 Loch, Lochkreis 112 | ✅ mehrere Händler (GTI-Set autopartsonline); Forum: Motoren 118–155 kW mit FN-3-Sattel = 312 mm |
+| Standard (z. B. 1.4 TSI, viele Motoren) | 288 × 25 mm | belüftet | ✅ Forum/Händler |
+| kleine Motoren | 256 mm (4 Loch) / 280 mm | belüftet | ⚠️ Händlerlisten, nicht für den GTI |
+
+Der GTI hat laut Händlerangaben **312 × 25 mm** vorne. Die kleineren Größen **nicht** mit dem GTI verwechseln.
+
+## Teilenummern vorne
+
+| Teil | Nummer | Status |
+|------|--------|--------|
+| Bremsscheibe vorne 312×25 (OE) | **1K0 615 301 AA** | ⚠️ in Händlerliste (RIDEX-Set) als OE geführt |
+| Bremsscheibe vorne 312×25 (ATE) | **24.0125-0158.1** (Mindestdicke 22 mm) | ✅ Händlerdatenblatt (pkwteile, idealo) |
+| Bremsscheibe vorne 312×25 (Brembo Xtra, gelocht) | **09.9772.1X** | ✅ Händlerlisten (motointegrator, autodoc) |
+| Bremsbelagsatz vorne (OE) | **1K0 698 151** (auch 1K0 698 151 C) | ⚠️ Händlerangabe (Zuordnung zur 312er nicht bestätigt) |
+| Bremsbelagsatz vorne (ATE) | **13.0460-7117.2** (146 × 54,7 × 19,6 mm) | ⚠️ Maße laut pkwteile/autodoc; Passung zur 312er nicht bestätigt |
+| Bremsbeläge (TRW) | **GDB1956** | ⚠️ motointegrator führt ihn für Audi/Cupra/Seat – GTI nicht bestätigt |
+| Verschleißanzeiger | vorne ab Werk meist mit Warnkontakt | ⚠️ Händlerangaben |
+
+➡️ Belagdicken neu/Minimum: siehe Abschnitt "Dicken und Verschleißgrenzen" (Scheibe 25/22 mm ✅; Belag: Faustregel ca. 3 mm Reibmaterial ⚠️).
+
+## PR-Nummern Bremse vorne (Golf V)
+
+> Die PR-Nummer steht im Serviceheft (Datenträger-Aufkleber) oder im Kofferraum/Ersatzradmulde. Zuordnungen
+> je nach Quelle uneinheitlich → **eigene PR-Nummer + FIN beim Händler abgleichen**, nicht blind diese Tabelle.
+
+| PR-Nummer | Bedeutung | Status |
+|-----------|-----------|--------|
+| **1ZE** | Vorderachse, **288 mm** (FS-III-Bremssattel) | ✅ Forum (zweimal bestätigt) |
+| 1ZD / 1ZP / 1LJ | derselbe Sattel-Typ wie 1ZE, Scheiben laut Shop **288 / 310 / 312 mm** | ⚠️ autopartsonline |
+| **1LK** | Titel eines ATE-Sets (312-mm-Sportmodelle: Golf 5 R32/GTI, A3, S3, Leon Cupra) | ⚠️ nur aus Shop-Titel (bandel-online), nicht bestätigt |
+
+## Werkzeug + Drehmomente Bremse vorne
+
+| Verschraubung / Schritt | Werkzeug | Drehmoment | Status |
+|-------------------------|----------|-----------|--------|
+| Radschrauben | Nuss **SW 17** | **120 Nm** | ✅ VW-Betriebsanleitung (vwhilfe.com) |
+| Bremssattelträger (Befestigung am Achsschenkel) | Größe am Fahrzeug prüfen | ca. **190 Nm** | ⚠️ Forum, bezogen auf PR 1ZE (288er); für 312er nicht bestätigt – **neue Schrauben** wenn drehwinkelgesteuert |
+| Bremssattel-Führungsbolzen | Größe am Fahrzeug prüfen (hinten: Inbus 7 mm) | ca. **30 Nm** | ⚠️ Forum |
+| Scheiben-Feststellschraube | Torx (Größe prüfen) | nur leicht anziehen | ⚠️ Richtwert |
+
+> ⚠️ **Nur 120 Nm (Radschrauben) sind belegt.** Alle anderen Werte sind Forenwerte; Werkzeuggrößen vorne
+> habe ich nicht belegt. Exakte Werte aus einem fahrzeugspezifischen Reparaturleitfaden (VW ELSA, "So wird's
+> gemacht") bestätigen. Bremsflüssigkeit nach Arbeit am Sattel prüfen, **Pedal vor dem Losfahren pumpen**.
+
+## Marken (Einschätzung, nicht getestet)
+- Erstausrüster-Niveau: ATE, Brembo, TRW, Bosch.
+- P/L: Zimmermann (Scheiben), Febi. Budget: RIDEX, Metzger.
+- Immer **achsweise** (beide Seiten) wechseln.
+
+## Preise (Richtwerte)
+- ATE Scheibe 24.0125-0158.1: ca. 47–56 € pro Stück ✅ (idealo/pkwteile).
+- Brembo Xtra 09.9772.1X (gelocht): ca. 68 € pro Stück ✅ (motointegrator).
+- ATE-Ceramic-Komplettset vorne (Scheiben + Beläge, bandel-online): ca. 261 € ✅.
+- Werkstatt-Wechsel vorne: ca. 180–250 € ✅ (autodoc-Angabe, Info-Quelle).
+
+## Bei den bevorzugten Shops (motointegrator.de, bandel-online.de, kfzteile24.de)
+Status: ✅ Produktseite, 🔎 Kategorie, ❌ kein Treffer. **Passform, Preis, Verfügbarkeit nicht geprüft.**
+
+| Teil | Shop | Link | Status |
+|------|------|------|--------|
+| Scheiben + Beläge Set (ATE Ceramic, PR-Titel 1LK) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/vorne/ate-bremsscheiben-ceramic-belaege-vorne-vw-golf-5-r32-gti-audi-s3-leon-cupra-r.html (Durchmesser 312 mm im Shop prüfen) | ✅ ⚠️ |
+| Scheiben + Beläge Set (Brembo gelocht, 312 mm) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/vorne/brembo-bset-xtra-va-vag-312mm.html (Sportvariante) | ✅ |
+| Set vorne + hinten komplett (ATE) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/vorne-hinten-komplett/ate-bremsscheiben-belaege-vorne-hinten-audi-a3-vw-golf-5-6-plus-seat-leon.html (Größen im Shop prüfen) | 🔎 ⚠️ |
+| Bremsscheibe Brembo Xtra 09.9772.1X | motointegrator.de | https://www.motointegrator.de/artikel/1324141-bremsscheibe-brembo-0997721x-vorne-gelocht-belueftet-perforiert-1-stueck | ✅ |
+| Bremsscheibe ATE Power Disc 24.0312-0158.1 | motointegrator.de | https://www.motointegrator.de/artikel/3754-bremsscheibe-ate-power-disc-240312-01581-1-stueck (Maße/Passung nicht geprüft) | ✅ ⚠️ |
+| Bremsbelagsatz ATE / TRW | motointegrator.de | ATE: https://www.motointegrator.de/artikel/468086-bremsbelagsatz-ate-130460-49932-vorne · TRW GDB1956: https://www.motointegrator.de/artikel/1165462-bremsbelagsatz-trw-gdb1956-vorne – Passung zum GTI **nicht bestätigt** | 🔎 ⚠️ |
+| Bremsbeläge Golf V | kfzteile24.de | https://www.kfzteile24.de/auto/vw/golf-v/bremsanlage/scheibenbremse/bremsbelag (Fahrzeugauswahl 2.0 TFSI, PR-Nummer prüfen) | 🔎 |
+| Bremsscheiben Golf V | kfzteile24.de | Kategorie: https://www.kfzteile24.de/ersatzteile-verschleissteile/bremsanlage – keine Produktseite für die 312er gefunden | 🔎 ❌ |
+
+> ⚠️ **Nicht verwechseln:** ATE 24.0112-0158.1 bei motointegrator = **256-mm-Scheibe hinten** (nicht GTI-Vorderachse);
+> ATE 24.0125-0215.1 (Hyundai/Kia) und 24.0125-0209.1 (Ford/Volvo) gehören zu **anderen Fahrzeugen**.
+> ATE **24.0125-0158.1** (vorne, 312×25) wurde bei motointegrator **nicht** gefunden.
+
+## 🧾 EINKAUFSLISTE – Vorderachse (beide Seiten)
+
+| Menge | Teil | Nummer | Marke-Tipp | Status |
+|-------|------|--------|------------|--------|
+| 2× | Bremsscheibe vorne 312×25 | 1K0 615 301 AA / ATE 24.0125-0158.1 / Brembo 09.9772.1X | ATE, Brembo | ⚠️ PR-Nummer/FIN prüfen |
+| 1× | Bremsbelagsatz vorne (4 Beläge) | 1K0 698 151 / ATE 13.0460-7117.2 | ATE, TRW | ⚠️ Zuordnung zur 312er nicht bestätigt |
+| nach Bedarf | Schrauben Bremssattelträger / Führungsbolzen | — | OE | ⚠️ neue Schrauben laut Leitfaden |
+| 1× | Montagepaste, Bremsenreiniger | — | — | — |
+| nach Bedarf | Bremsflüssigkeit nachfüllen | — | — | Spezifikation des Fahrzeugs beachten |
+
+**Checkliste vor dem Bestellen**
+- [ ] PR-Nummer (Bremse vorne) und FIN bereithalten
+- [ ] Scheibe vorne **gemessen** (312 mm GTI vs. 288 mm Standard)
+- [ ] Nur Frontantrieb-Nummern
+- [ ] Beläge-Nummer per PR/FIN beim Händler bestätigen
+
+## Quellen
+- Scheibe vorne 312×25 / Mindestdicke 22 mm: https://www.idealo.de/preisvergleich/OffersOfProduct/6720319_-24-0125-0158-1-ate.html
+- GTI-Set 312×25 / 282×12: https://www.autopartsonline.de/Bremsen/VW-Golf-5-GTI-Bremsscheiben-und-Bremsbelaege-mit-Bremsverschleissanzeiger-fuer-vorne-und-hinten.html
+- PR 1ZE = 288 mm; Drehmomente (Forum): https://www.motor-talk.de/forum/bremsscheibendurchmesser-t3307805.html und https://www.motor-talk.de/forum/frage-an-vw-mechaniker-anzugsdrehmoment-bremsen-schrauben-gti-t1453840.html
+- Sattel-Typ 1ZD/1ZE/1ZP/1LJ, 288/310/312 mm: https://www.autopartsonline.de/Bremsen/VW-Golf-5-V-Golf-Plus-2-Bremssattel-Bremssaettel-fuer-links-und-rechts-vorne.html
+- OE 1K0 615 301 AA: https://www.autoteile-meile.de/oe-nummer/1k0615301aa
+- Radschrauben 120 Nm: https://www.vwhilfe.com/vwseite-531.html
+- Brembo Xtra 09.9772.1X: https://www.motointegrator.de/artikel/1324141-bremsscheibe-brembo-0997721x-vorne-gelocht-belueftet-perforiert-1-stueck
+- Wechselkosten vorne: https://www.autodoc.de/s/vw-golf-5-bremsen-wechseln-kosten-vorne-und-hinten
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
