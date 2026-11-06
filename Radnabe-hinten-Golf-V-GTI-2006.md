@@ -237,15 +237,15 @@ ABS-Lampe an
 | **bandel-online.de** | bevorzugt |
 | **kfzteile24.de** | bevorzugt – großer Shop, schneller Versand (oft gleicher Werktag) |
 
-**Nicht verwenden: AUTODOC (autodoc.de).** Autodoc wird nur noch als **Informationsquelle**
-(Maße, OE-Nummern, Preisrichtwerte) in den Quellenlisten genannt, nicht als Bezugsquelle.
+**Nicht verwenden: AUTODOC (autodoc.de) und pkwteile.de** (gehört zur AUTODOC-Gruppe).
+Beide werden nur noch als **Informationsquelle** (Maße, OE-Nummern, Preisrichtwerte) in den
+Quellenlisten genannt, nicht als Bezugsquelle.
 Bestellen immer über **FIN** oder **OEM-Nummer** und mit geprüfter Einbauposition.
 
 ## Weitere Shops (nicht bevorzugt, nur zur Info)
 
 | Shop | Stärken | Hinweis |
 |------|---------|---------|
-| **pkwteile.de** | Günstig, großes Sortiment | gehört zur AUTODOC-Gruppe – bei Bedarf ebenfalls meiden |
 | **autoersatzteile.de** | Gute OEM-Suche, Markenware | solide |
 | **ATP-autoteile.de** | Markenware, gute Beratung/Blog | etwas teurer |
 | **Lokaler Teilehändler / VW-Werkstatt** | Sofort verfügbar, Beratung, Originalteile | teurer, aber bei Eile/Beratung top |
