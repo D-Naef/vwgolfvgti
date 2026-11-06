@@ -12,6 +12,7 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
   - Bremsscheiben hinten (272 / 282 mm) + PR-Nummern
   - Kosten- & Zeitschätzung
   - Einkaufsliste (beide Seiten)
+  - Bremsscheiben- und Belagdicken vorne + hinten (neu / Verschleißgrenze) inkl. Hinweise zur MFK (Aargau)
 
 ## Schnellübersicht Teile (hinten)
 
@@ -22,6 +23,17 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
 | ABS-Sensor hinten rechts | 1K0 927 808 |
 | Bremsscheibe hinten | 1K0 615 601 AD (282 mm) / AA (272 mm) |
 | Bremsbelagsatz hinten | 1K0 698 451 |
+
+## Schnellübersicht Bremsscheiben-Dicken (Golf V GTI)
+
+| Achse | Scheibe | Neu | Minimum | Status |
+|-------|---------|-----|---------|--------|
+| Vorne | Ø 312 mm, belüftet | 25 mm | 22 mm | ✅ Datenblätter |
+| Hinten | Ø 282 mm, voll | 12 mm | 10 mm | ✅ Datenblätter |
+
+> Es gilt der auf der Scheibe eingestanzte Wert ("MIN TH"). Belag-Minimum, VW-Wert und
+> MFK-Grenze Aargau: siehe Abschnitt in der Doku (teils nicht belegt).
+> ⚠️ Teilenummer Bremsbelagsatz hinten (1K0 698 451) ist für die 282-mm-Scheibe **unbestätigt** – per PR-Nummer/FIN prüfen.
 
 > ⚠️ Alle Angaben gelten für Frontantrieb. Scheibengröße über PR-Nummer / FIN prüfen.
 > Sicherheitsrelevante Arbeiten (Bremse!) im Zweifel in der Werkstatt durchführen lassen.

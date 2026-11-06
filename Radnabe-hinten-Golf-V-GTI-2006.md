@@ -428,3 +428,83 @@ Quellen: autopartsonline.de (Ø 282 mm), motor-talk.de (GTI Ø 286 mm), bandel-o
 
 Quellen: motor-talk.de (1KD hinten), at-rs.de / spiegler.de (PR-Nummern-Erklärung).
 *Inhalte zur Lizenzkonformität zusammengefasst.*
+
+---
+
+# Bremsscheiben & Bremsbeläge – Dicken und Verschleißgrenzen (vorne + hinten)
+
+> Stand der Recherche: Oktober 2026. Jede Angabe trägt einen Status:
+> ✅ = in Quelle(n) gefunden, ⚠️ = nur teilweise belegt / Richtwert, ❌ = nicht gefunden.
+> **Maßgeblich ist immer der Wert, der auf der verbauten Scheibe eingestanzt ist ("MIN TH").**
+
+## Bremsscheiben (Golf V GTI, Typ 1K1)
+
+| Achse | Scheibe | Dicke neu (ab Werk) | Mindestdicke (Verschleißgrenze) | Status |
+|-------|---------|---------------------|----------------------------------|--------|
+| **Vorne** | Ø 312 mm, belüftet | **25 mm** | **22 mm** | ✅ Händler-/Herstellerdatenblatt (ATE 24.0125-0158.1) |
+| **Hinten** | Ø 282 mm, voll | **12 mm** | **10 mm** | ✅ Händler-/Herstellerdatenblatt (ATE 24.0112-0169.1, Set bandel-online) |
+
+Hinweise:
+- Die Werte stammen aus Händler- und Herstellerdatenblättern. Ein VW-Werkstatthandbuch
+  (ELSA) wurde **nicht** eingesehen → ⚠️ bei Bedarf dort gegenprüfen.
+- Abweichung bei Fremdherstellern möglich: Brembo-Sportscheibe hinten nennt **10,5 mm**
+  (statt 10 mm). Es gilt der eingestanzte Wert auf der Scheibe.
+- Die Hinterachse gibt es bei Golf V in mehreren Größen (255/256, 272, 282 mm).
+  Mindestdicken der **272-mm-Variante** (Dicke neu 10 mm) wurden **nicht** recherchiert ❌.
+  Vor dem Messen/Bestellen Größe und PR-Nummer prüfen (siehe Abschnitt PR-Nummern).
+- Messen: Messschieber/Bügelmessschraube an mehreren Stellen auf der Reibfläche
+  (Verschleißrand/Rille nicht mitmessen, sondern die dünnste Stelle der Reibfläche).
+
+## Bremsbeläge
+
+| Achse | Dicke neu (inkl. Trägerplatte) | Mindestdicke | Status |
+|-------|--------------------------------|--------------|--------|
+| **Hinten** (zu 282-mm-Scheibe) | **17,2 mm** (Breite 105,5 mm, Höhe 56,5 mm) | siehe unten | ✅ (bandel-online Set) |
+| **Vorne** (zu 312-mm-Scheibe) | ❌ für den GTI nicht eindeutig belegt | siehe unten | ❌ |
+
+Mindestdicke Beläge:
+- Allgemeine Faustregel (herstellerunabhängig): Wechsel bei **unter 3 mm Reibmaterial**
+  (Quellen nennen 2–3 mm) ⚠️.
+- Einen **VW-spezifischen** Grenzwert für den Golf V GTI habe ich nicht gefunden ❌.
+  Ein früher genannter Wert "7 mm inkl. Trägerplatte" ist **nicht belegt** – nicht verwenden.
+- Belag-Verschleißwarnkontakt (falls verbaut) löst die Warnleuchte aus; Beläge immer
+  **achsweise** wechseln.
+
+## Strassenverkehrsamt Aargau / MFK (Schweiz)
+
+- Im aktuellen Text der Verordnung über die technischen Anforderungen an Strassenfahrzeuge
+  (**VTS**, SR 741.41, Stand 1.1.2025, fedlex) steht **keine Millimetergrenze** für
+  Bremsbeläge oder Bremsscheiben-Verschleiß ✅ (Volltextsuche; "Bremsbelag" kommt nur im
+  Zusammenhang mit der UNECE-Regelung Nr. 90 für Ersatzteile vor).
+- Auf den Seiten des Kantons Aargau wurde ebenfalls **keine feste Zahl** gefunden ❌.
+- Es gilt die allgemeine Pflicht, dass das Fahrzeug **betriebssicher und vorschriftsgemäss**
+  ist (SVG Art. 29, VTS Art. 29 ff.; Bremsanlage ist ausdrücklich Prüfgegenstand).
+- Wie der Prüfer im Einzelfall bewertet, ist **nicht belegt** ⚠️. Vermutlich Herstellerangaben
+  + Beurteilung des Zustands – das ist eine Annahme, keine bestätigte Aussage.
+- **Verbindlich klären:** Strassenverkehrsamt Aargau, Disposition Fahrzeugprüfungen,
+  Tel. 062 886 23 06, oder MFK-Vortest (z. B. TCS Aargau).
+
+> Praxis: Scheiben und Beläge lieber **früher** als an der Grenze ersetzen, besonders vor
+> der MFK. Bei Unsicherheit (Bremse!) Werkstatt.
+
+## Korrekturhinweis Teilenummer Bremsbeläge hinten
+
+- Im README und in der Einkaufsliste steht "Bremsbelagsatz hinten **1K0 698 451**".
+- Laut autodoc.de gehört **1K0 698 451 J** zu Belägen für die **249-mm-Scheibe**
+  (Breite 87 mm). Die Beläge zur **282-mm-Scheibe** sind 105,5 mm breit.
+- ⚠️ **Für den GTI (282 mm) die Nummer anhand PR-Nummer / FIN prüfen**, bevor bestellt wird.
+  Die Nummer in der Doku ist bis dahin als "unbestätigt" zu betrachten.
+
+## Quellen
+- Scheibe vorne 312×25 / Mindestdicke 22 mm (ATE 24.0125-0158.1): https://www.pkwteile.de/ersatzteil/bremsscheiben/vw/golf-v-1k1 und https://www.idealo.de/preisvergleich/OffersOfProduct/6720319_-24-0125-0158-1-ate.html
+- Scheibe hinten 282×12 (ATE 24.0112-0169.1): https://www.idealo.de/preisvergleich/OffersOfProduct/6640991_-24-0112-0169-1-ate.html
+- Set hinten 282 mm (Mindestdicke 10 mm, Belag 17,2 mm): https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/hinten/bremsscheiben-massiv-bremsbelaege-hinten-vw-eos-golf-plus-golf-v-jetta-iii-set.html
+- Neumaße GTI vorne/hinten: https://www.autopartsonline.de/Bremsen/VW-Golf-5-GTI-Bremsscheiben-und-Bremsbelaege-mit-Bremsverschleissanzeiger-fuer-vorne-und-hinten.html
+- Brembo hinten 10,5 mm: https://www.autodoc.de/autoteile/hochleistungs-bremsscheibe-12326/vw/golf/golf-v-1k1/18387-2-0-gti
+- Mindestdicke eingestanzt (MIN TH): https://www.hella.com/techworld/de/ti/mindestdicke-der-bremsscheibe-pruefen/
+- Belag Faustregel < 3 mm: https://verkehr-schweiz.ch/bremsbelaege-verschleiss-erkennen-und-rechtzeitig-wechseln/
+- Belag 1K0 698 451 J = 249-mm-Scheibe: https://www.autodoc.de/autoteile/bremsbelag-10130/vw/golf/golf-v-1k1/18919-2-0-tdi
+- VTS (SR 741.41): https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/de
+- Kontakt Strassenverkehrsamt Aargau: https://www.ag.ch/de/themen/mobilitaet-verkehr/strassenverkehr/kontakt
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
