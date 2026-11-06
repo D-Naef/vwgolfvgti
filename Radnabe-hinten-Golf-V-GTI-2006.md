@@ -112,7 +112,6 @@
 
 ## 🔗 Quellen
 - AUTODOC – OEM 1K0 598 611: https://www.autodoc.de/autoteile/oem/1k0598611
-- pkwteile.de – OEM 1K0 598 611: https://www.pkwteile.de/oen/1k0598611
 - VW Betriebsanleitung (120 Nm Radschrauben): https://www.vwhilfe.com/vwseite-550.html
 - AUTODOC Club – Golf 5 Radlager hinten wechseln: https://club.autodoc.de/manuals/anleitung-vw-golf-5-radlager-hinten-wechseln-10493
 - fix-reparieren.de – Golf 5/6 Radlager hinten: http://www.fix-reparieren.de/fahrzeug/vw-anleitungen/golf-5-6-radlager-hinten-wechseln/
@@ -170,6 +169,34 @@
 | **Aktiv (Golf V GTI)** | nicht aussagekräftig mit Multimeter | zeigt oft "OL" trotz OK |
 
 ➡️ Beim aktiven Sensor NICHT auf den reinen Ω-Wert am Sensor verlassen.
+
+## Radsensor mit VCDS testen (Golf V, Steuergerät 03 Bremsenelektronik)
+
+> Status: Ablauf aus Erfahrung. Ross-Tech-Wiki (Golf 1K MK60EC1) bestätigt Steuergerät 03 und
+> die Fehlercodes vorne, **nicht** die Messwertgruppe für Raddrehzahlen. Punkte mit ⚠️ in VCDS prüfen.
+
+1. VCDS starten → `03 – Bremsenelektronik`.
+2. `Fehlerspeicher – 02` lesen, Codes notieren (sporadisch oder dauerhaft?).
+3. `Messwerte – 08` → Gruppe **001** ⚠️ (Raddrehzahlen der vier Räder in km/h, Feldbezeichnung in VCDS prüfen).
+4. Probefahrt, Werte live ansehen: auf gerader Strecke müssen alle vier Werte fast gleich sein.
+5. Zusätzlich Kurven, Unebenheiten und Wackeltest an Kabel/Stecker des verdächtigen Sensors.
+6. Fehler löschen, erneut fahren, prüfen ob er wiederkehrt.
+
+| Beobachtung | Mögliche Ursache |
+|-------------|------------------|
+| Ein Rad dauerhaft 0 km/h | Sensor defekt oder Kabelbruch |
+| Wert fällt kurz aus (Kurven, Wackeln) | Kabelbruch / Haarriss |
+| Wert springt, bei höherem Tempo unruhig | Magnetring in der Nabe beschädigt oder Sensor verschmutzt |
+| Alle Werte gleich, Fehler trotzdem im Speicher | evtl. alter Fehler → löschen und neu testen |
+
+Fehlercodes (Ross-Tech): **00283** = vorne links (G47), **00285** = vorne rechts (G45) ✅.
+Hinten: G46 (links) und G44 (rechts) ⚠️ – zugehörigen Code im Ross-Tech-Wiki nachschlagen.
+
+Hinweis: Der Test trennt Sensor, Kabel und Magnetring nicht sicher. Sind Sensor und Kabel in Ordnung
+und bleibt der Fehler, ist die Radnabe mit Magnetring ein häufiger Kandidat.
+
+Quellen: https://wiki.ross-tech.com/wiki/index.php/VW_Golf_(1K)_Brake_Electronics_(MK60EC1) ,
+http://wiki.ross-tech.com/index.php/00283 , https://wiki.ross-tech.com/wiki/index.php/00285
 
 ## Wenn Multimeter nicht reicht
 | Methode | Aussage |
@@ -511,7 +538,7 @@ Mindestdicke Beläge:
   Die Nummer in der Doku ist bis dahin als "unbestätigt" zu betrachten.
 
 ## Quellen
-- Scheibe vorne 312×25 / Mindestdicke 22 mm (ATE 24.0125-0158.1): https://www.pkwteile.de/ersatzteil/bremsscheiben/vw/golf-v-1k1 und https://www.idealo.de/preisvergleich/OffersOfProduct/6720319_-24-0125-0158-1-ate.html
+- Scheibe vorne 312×25 / Mindestdicke 22 mm (ATE 24.0125-0158.1): https://www.idealo.de/preisvergleich/OffersOfProduct/6720319_-24-0125-0158-1-ate.html
 - Scheibe hinten 282×12 (ATE 24.0112-0169.1): https://www.idealo.de/preisvergleich/OffersOfProduct/6640991_-24-0112-0169-1-ate.html
 - Set hinten 282 mm (Mindestdicke 10 mm, Belag 17,2 mm): https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/hinten/bremsscheiben-massiv-bremsbelaege-hinten-vw-eos-golf-plus-golf-v-jetta-iii-set.html
 - Neumaße GTI vorne/hinten: https://www.autopartsonline.de/Bremsen/VW-Golf-5-GTI-Bremsscheiben-und-Bremsbelaege-mit-Bremsverschleissanzeiger-fuer-vorne-und-hinten.html
@@ -528,7 +555,7 @@ Mindestdicke Beläge:
 
 # Heckwischer – Teilenummern & Marken (Golf V Schrägheck, 1K1)
 
-> Status: ⚠️ = Händlerangaben (autodoc, pkwteile, autoersatzteile u. a.), **nicht** per VW-ETKA/FIN bestätigt.
+> Status: ⚠️ = Händlerangaben (Teilehändler-Datenblätter u. a.), **nicht** per VW-ETKA/FIN bestätigt.
 > Vor dem Kauf Nummer mit der **FIN** bei einem VW-Händler oder im Teilekatalog abgleichen.
 
 ## Teilenummern
@@ -561,7 +588,7 @@ Mindestdicke Beläge:
 
 ## Quellen
 - Arm 6Q6 955 707 C (OE): https://www.autodoc.de/autoteile/wischerarm-lagerung-10236/vw/golf/golf-v-1k1/27998-2-0
-- Arme/Preise 1K1: https://www.pkwteile.de/ersatzteil/scheibenwischerarm/vw/golf-v-1k1 und https://www.autoersatzteile.de/scheibenwischerarm/vw/golf-v-1k1
+- Arme/Preise 1K1: https://www.autoersatzteile.de/scheibenwischerarm/vw/golf-v-1k1
 - RIDEX 301W0003: https://www.autodoc.de/autoteile/wischerarm-lagerung-10236/vw/golf/golf-v-1k1/17278-1-4-16v
 - Motor 1K6 955 711 B/C: https://www.autodoc.de/autoteile/wischermotor-10234/vw/golf/golf-v-1k1/19468-1-4-16v
 - Variant-Arm 1K9 955 707 A: https://shop.ahw-shop.de/heckwischerarm-original-vw-golf-5-1k-golf-6-5k-variant-heckscheibe-wischerarm-1k9955707a
