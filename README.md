@@ -17,6 +17,7 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
   - Bestellempfehlung mit Links bei motointegrator.de, bandel-online.de, kfzteile24.de
   - Einkaufsliste mit Shop-Priorität (Hinterachse, Vorderachse, Heckwischer) und Checkliste
   - Scheinwerfer aufbereiten (Polycarbonat): Schleifen, Primer, 2K-Klarlack
+  - Bremse vorne (312 mm): Teilenummern, PR-Nummern, Drehmomente, Marken, Preise, Einkaufsliste, Shop-Links
   - MFK-Prüfpunkte (Schweiz) und Verschleißteile um 150.000 km
   - Fahrwerk: Stoßdämpfer, Koppelstangen, Domlager (Teilenummern + Shop-Hinweise)
   - Heckwischer: Teilenummern (Arm 6Q6 955 707 C, Blatt, Motor) und Marken
