@@ -594,3 +594,64 @@ Mindestdicke Beläge:
 - Variant-Arm 1K9 955 707 A: https://shop.ahw-shop.de/heckwischerarm-original-vw-golf-5-1k-golf-6-5k-variant-heckscheibe-wischerarm-1k9955707a
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# 🛒 Bestellempfehlung – bevorzugte Shops (motointegrator.de, bandel-online.de, kfzteile24.de)
+
+> Stand der Recherche: Oktober 2026. Links führen zu Produkt- oder Kategorieseiten der
+> bevorzugten Shops. **Verfügbarkeit, Preis und Passform sind nicht geprüft** – vor dem Kauf
+> immer mit **FIN / PR-Nummer / OE-Nummer** abgleichen. Shops schreiben selbst, dass ihre
+> Beschreibung keine Kompatibilität garantiert.
+> Status: ✅ = Produktseite gefunden, 🔎 = nur Kategorie-/Suchseite, ❌ = kein Treffer gefunden.
+
+## Radnabe / Radlagersatz hinten (OE 1K0 598 611)
+
+> ⚠️ **Wichtig:** Hinten sind bei vielen Modellen **zwei Lager-Innendurchmesser** möglich
+> (**30 mm oder 32 mm**, laut bandel-online). Vor dem Bestellen an der alten Nabe/über FIN
+> prüfen, welche Variante verbaut ist. Variante **mit ABS-Sensorring** wählen.
+
+| Shop | Link | Status |
+|------|------|--------|
+| bandel-online.de | SKF-Radlagersatz (2×) hinten, Golf 5/6/7 u. a.: https://www.bandel-online.de/radlager-radnaben/2x-skf-radlager-radnabe-hinten-vw-golf-5-6-7-passat-3c-audi-a3-8p-8v-octavia.html | ✅ (Innendurchmesser 32 mm laut Shop) |
+| bandel-online.de | Kategorie Radlager Hinterachse: https://www.bandel-online.de/radlager-radnaben/radlager-radnaben-hinten.html | 🔎 |
+| kfzteile24.de | Kategorie Radlager: https://www.kfzteile24.de/ersatzteile-verschleissteile/achsaufhaengung/radnabe-radlager/radlager und SKF: https://www.kfzteile24.de/marke/skf/radlager | 🔎 |
+| motointegrator.de | FAG-Herstellerseite: https://m.motointegrator.de/hersteller/fag/ (dort nach OE **1K0 598 611** suchen) | 🔎 |
+
+Marken-Empfehlung: FAG oder SKF (Erstausrüster-Niveau).
+
+## ABS-Sensor hinten (links 1K0 927 807 / rechts 1K0 927 808)
+
+| Shop | Hinweis | Status |
+|------|---------|--------|
+| motointegrator.de | Bosch-Raddrehzahlsensoren im Sortiment (Beispiel: https://www.motointegrator.de/artikel/1740148-sensor-raddrehzahl-bosch-0-986-594-507-rechts ); Passform für **hinten** mit OE-Nummer **selbst prüfen** | 🔎 |
+| bandel-online.de | nur Sensoren für andere Modelle gefunden (Golf 3/4) – **nicht** passend | ❌ |
+| kfzteile24.de | kein Treffer gefunden | ❌ |
+
+➡️ Praktisch: im Shop nach der OE-Nummer **1K0 927 807** (links) bzw. **1K0 927 808** (rechts) suchen.
+
+## Bremsscheiben & Beläge
+
+| Teil | Shop | Link | Status |
+|------|------|------|--------|
+| **Hinten 282×12** + Beläge (Set) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/hinten/bremsscheiben-massiv-bremsbelaege-hinten-vw-eos-golf-plus-golf-v-jetta-iii-set.html (282 mm, Mindestdicke 10 mm, Belag 17,2 mm laut Shop) | ✅ |
+| **Vorne 312×25** + Beläge (Set, ATE Ceramic) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/vorne/ate-bremsscheiben-ceramic-belaege-vorne-vw-golf-5-r32-gti-audi-s3-leon-cupra-r.html | ✅ ⚠️ Durchmesser 312 mm im Shop prüfen |
+| **Vorne 312×25** (Brembo, gelocht, Sport) | bandel-online.de | https://www.bandel-online.de/bremsanlage/bremsscheiben-belaege-sets/vorne/brembo-bset-xtra-va-vag-312mm.html | ✅ (Sportvariante) |
+| Bremsscheiben allgemein | motointegrator.de | ATE-Scheiben im Sortiment, aber **ATE 24.0125-0158.1 (vorne 312)** und **ATE 24.0112-0169.1 (hinten 282)** wurden dort nicht gefunden | ❌ |
+
+> ⚠️ **Nicht verwechseln:** motointegrator führt ATE **24.0112-0158.1** – das ist eine **256-mm**-Scheibe
+> (nicht die 282 mm des GTI). Nur Artikelnummern **24.0125-0158.1** (vorne) und **24.0112-0169.1** (hinten) passen zu den GTI-Maßen.
+> Hinten zusätzlich Beläge-Nummer per PR-Nummer/FIN klären (siehe Korrekturhinweis weiter oben).
+
+## Heckwischer (Arm 6Q6 955 707 C, Motor 1K6 955 711 B/C)
+
+| Shop | Status |
+|------|--------|
+| motointegrator.de | ❌ kein passender Heckwischerarm gefunden |
+| bandel-online.de | ❌ kein Treffer |
+| kfzteile24.de | ❌ kein Treffer |
+
+➡️ In den bevorzugten Shops per OE-Nummer **6Q6 955 707 C** suchen; alternativ **Original VW beim VW-Händler**.
+Marken-Tipp (siehe Heckwischer-Abschnitt): Original VW, dann METZGER; VAICO nicht.
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
