@@ -14,6 +14,7 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
   - Einkaufsliste (beide Seiten)
   - Bremsscheiben- und Belagdicken vorne + hinten (neu / Verschleißgrenze) inkl. Hinweise zur MFK (Aargau)
   - Radsensor mit VCDS testen (Steuergerät 03)
+  - Bestellempfehlung mit Links bei motointegrator.de, bandel-online.de, kfzteile24.de
   - Heckwischer: Teilenummern (Arm 6Q6 955 707 C, Blatt, Motor) und Marken
 
 ## Schnellübersicht Teile (hinten)
