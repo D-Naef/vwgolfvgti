@@ -512,3 +512,47 @@ Mindestdicke Beläge:
 - Kontakt Strassenverkehrsamt Aargau: https://www.ag.ch/de/themen/mobilitaet-verkehr/strassenverkehr/kontakt
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# Heckwischer – Teilenummern & Marken (Golf V Schrägheck, 1K1)
+
+> Status: ⚠️ = Händlerangaben (autodoc, pkwteile, autoersatzteile u. a.), **nicht** per VW-ETKA/FIN bestätigt.
+> Vor dem Kauf Nummer mit der **FIN** bei einem VW-Händler oder im Teilekatalog abgleichen.
+
+## Teilenummern
+| Teil | Nummer | Status |
+|------|--------|--------|
+| **Heckwischerarm** (Schrägheck 1K1) | **6Q6 955 707 C** | ⚠️ in mehreren Händlerlisten als OE-Nummer geführt |
+| Wischerblatt hinten | 6Q6 955 425 A | ⚠️ Händlerangabe |
+| weitere Nummer im Set/Arm-Umfeld | 6Q6 955 435 D | ⚠️ genaue Zuordnung nicht bestätigt |
+| **Heckwischermotor** | 1K6 955 711 B / C | ⚠️ Händlerangabe |
+
+## Nicht verwechseln
+- **1K9 955 707 A** = Heckwischerarm für den **Variant (1K5)**, nicht für das Schrägheck.
+- **1J6 955 707 A** = Golf IV, wird bei Golf-5-Modellen teils mitgelistet – nicht blind bestellen.
+
+## Marken (gelistete Arme für 1K1)
+| Rang | Marke | Artikel | ca. Preis | Hinweis |
+|------|-------|---------|-----------|---------|
+| 1 | **Original VW** | 6Q6 955 707 C | ca. 40 € (Preis ähnl. Variant-Teil) | sicherste Passform/Haltbarkeit |
+| 2 | **METZGER** | 2190075 (mit Kappe) | ca. 11 € | günstigere Alternative |
+| 3 | RIDEX | 301W0003 (mit Kappe, GFK, 330 mm) | ca. 6 € | Budget |
+| 3 | ABAKUS | 103-00-108 (mit Kappe, ohne Blatt) | ca. 5 € | Budget |
+
+- **VAICO:** schlechte eigene Erfahrung → nicht empfohlen.
+- Valeo/Bosch: für den 1K1 wurde **kein** passender Heckwischerarm gefunden (Bosch Aerotwin = nur Blätter).
+- Die Rangfolge ist eine **Einschätzung** nach Preis/Herkunft, keine getestete Qualitätsaussage.
+
+## Beim Kauf beachten
+- Aufnahme am Arm prüfen (Vierkant vs. Konus).
+- Arm "mit Kappe", "ohne Wischblatt" – Blatt (6Q6 955 425 A) separat oder Set mit Blatt wählen.
+
+## Quellen
+- Arm 6Q6 955 707 C (OE): https://www.autodoc.de/autoteile/wischerarm-lagerung-10236/vw/golf/golf-v-1k1/27998-2-0
+- Arme/Preise 1K1: https://www.pkwteile.de/ersatzteil/scheibenwischerarm/vw/golf-v-1k1 und https://www.autoersatzteile.de/scheibenwischerarm/vw/golf-v-1k1
+- RIDEX 301W0003: https://www.autodoc.de/autoteile/wischerarm-lagerung-10236/vw/golf/golf-v-1k1/17278-1-4-16v
+- Motor 1K6 955 711 B/C: https://www.autodoc.de/autoteile/wischermotor-10234/vw/golf/golf-v-1k1/19468-1-4-16v
+- Variant-Arm 1K9 955 707 A: https://shop.ahw-shop.de/heckwischerarm-original-vw-golf-5-1k-golf-6-5k-variant-heckscheibe-wischerarm-1k9955707a
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
