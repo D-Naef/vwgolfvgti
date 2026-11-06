@@ -797,7 +797,9 @@ für Polycarbonat freigegebenen Primer wählen.
 | **Stoßdämpfer hinten** | 1K0 513 029 HM, 1K0 513 029 EN, 1K0 513 029 FG | ⚠️ Händlerlisten (Forum: FG maßgeblich bei einem Golf 5 mit Sportfahrwerk) |
 | **Domlager / Federbeinstützlager vorne** | 1K0 412 331 B, 1K0 412 331 C | ⚠️ Händlerlisten |
 | **Dämpferlager hinten** | 1K0 513 353 R, 1K0 513 353 H, 1K0 513 353 J | ⚠️ Händlerliste |
-| **Querlenkerlager** | keine Nummer gefunden | ❌ |
+| **Querlenkerlager vorne (Vorderachse, unten, beidseitig, vorderes Lager)** | 1K0 407 182, 1K0 407 182 A, 5Q0 407 182 | ⚠️ Händlerlisten (Lagerposition "vorne" laut Händlertext, Einbau selbst prüfen) |
+| **Querlenkerlager hinten (hinteres/hydraulisches Lager am Querlenker)** | 1K0 407 183 A | ⚠️ Händlerliste (OE-Seite "Lagerung, Lenker, Querlenker") |
+| **Querlenker komplett (Hinweis)** | 1K0 407 151 / 1K0 407 152 | ⚠️ aus dem Gedächtnis, Seitenzuordnung nicht bestätigt |
 
 ## Bestellhinweise bei den bevorzugten Shops (motointegrator.de, bandel-online.de, kfzteile24.de)
 
@@ -810,6 +812,9 @@ nicht geprüft.**
 | Stoßdämpfer-Sets | bandel-online.de | Kategorie Stoßdämpfer-Komplettsets: https://www.bandel-online.de/fahrwerk/stossdaempfer/stossdaempfer-sets-vorne-hinten.html (nach Golf 5 / GTI filtern, Sportfahrwerk beachten) | 🔎 |
 | Dämpfer + Domlager + Koppelstangen (MEYLE HD) | bandel-online.de | https://www.bandel-online.de/fahrwerk/stossdaempfer/meyle-stossdaempfer-domlager-hd-koppelstangen-vw-golf-passat-touran-skoda-octavia.html – Passform für Golf 5 GTI im Shop prüfen | 🔎 ⚠️ |
 | Koppelstange | motointegrator.de | TRW Stabilisator-Stange JTS484 (Audi/Seat/Skoda): https://m.motointegrator.de/artikel/475437-stangestrebe-stabilisator-trw-jts484 – Passform für Golf 5 GTI **nicht bestätigt** | 🔎 ⚠️ |
+| Querlenkerlager | bandel-online.de | MEYLE-HD Querlenkerlager (verstärkt) + Schrauben für Golf V / Touran / Caddy 3 / A3: https://www.bandel-online.de/lenkung-achsaufhaengung/querlenker/meyle-hd-querlenker-lager-verstaerkt-schrauben-vw-golf-v-touran-caddy-3-audi-a3.html (Vorderachse rechts + links, mit Gummilager; Lagerposition im Shop prüfen) | ✅ ⚠️ |
+| Querlenkerlager / Montagesatz | motointegrator.de | Lemförder Montagesatz Querlenker 38398 (Audi/Seat/VW): https://www.motointegrator.de/artikel/1729919-montagesatzquerlenker-lemfoerder-38398 – Passform für Golf 5 GTI **nicht bestätigt**; Querlenker allgemein: https://m.motointegrator.de/produkte/querlenker-11502/ | 🔎 ⚠️ |
+| Querlenkerlager | kfzteile24.de | kein Treffer gefunden | ❌ |
 | Domlager vorne | motointegrator.de | nur Ratgeber (Symptome): https://www.motointegrator.de/blog/federbeinstuetzlager-defekt/ | ❌ Produkt |
 | Domlager/Dämpfer/Koppelstange | kfzteile24.de | kein Treffer gefunden | ❌ |
 
