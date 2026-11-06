@@ -426,13 +426,19 @@ Quellen: autopartsonline.de (Ø 282 mm), motor-talk.de (GTI Ø 286 mm), bandel-o
 
 # 🧾 EINKAUFSLISTE – Hinterachse komplett (beide Seiten)
 
+> ⚠️ **Überholt – bitte die neue Liste verwenden:** siehe Abschnitt
+> **"Einkaufsliste mit Shop-Priorität (Hinterachse + Heckwischer)"** weiter unten.
+> Die Beläge-Nummer **1K0 698 451** ist dort als **unbestätigt** markiert (laut Händlerangaben
+> gehört sie zur 249-mm-Scheibe, nicht zur 282-mm-Scheibe des GTI). Ebenso fehlt hier der Hinweis
+> auf den Radlager-Innendurchmesser (30 oder 32 mm). Diese Tabelle nur noch als Teilenummern-Übersicht lesen.
+
 | Menge | Teil | Teilenummer | Marke-Tipp |
 |-------|------|-------------|------------|
 | 2× | Radnabe/Radlagersatz | 1K0 598 611 | FAG / SKF |
 | 1× | ABS-Sensor hinten links | 1K0 927 807 | Bosch / Febi |
 | 1× | ABS-Sensor hinten rechts | 1K0 927 808 | Bosch / Febi |
 | 2× | Bremsscheibe hinten | 1K0 615 601 AD (282mm) *o. AA (272mm)* | ATE / Zimmermann |
-| 1× | Bremsbelagsatz hinten (4 Beläge) | 1K0 698 451 | ATE / TRW |
+| 1× | Bremsbelagsatz hinten (4 Beläge) | 1K0 698 451 ⚠️ **unbestätigt für 282 mm** – per PR-Nummer/FIN prüfen | ATE / TRW |
 | nach Bedarf | selbstsichernde Bremssattel-Schrauben | — | OE |
 | 1× | Montage-/Kupferpaste, Bremsenreiniger | — | — |
 
