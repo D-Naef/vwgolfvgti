@@ -827,3 +827,61 @@ MFK-Prüfpunkte laut einer privaten Checkliste (reifen.com) – eine offizielle 
 wurde nicht gefunden ⚠️.
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# ✅ MFK-Prüfpunkte (Schweiz) & Verschleißteile um 150.000 km (Golf V GTI)
+
+> Status: ✅ = in Quelle gefunden, ⚠️ = Einschätzung/nicht belegt, ❌ = nicht gefunden.
+> Eine **offizielle** Prüfliste des Strassenverkehrsamts Aargau wurde **nicht** gefunden. Die MFK-Punkte
+> unten stammen aus einer **privaten** Checkliste (reifen.com). Verbindlich: Strassenverkehrsamt Aargau bzw.
+> MFK-Vortest (z. B. TCS Aargau). Für die Bremsbeläge/-scheiben gibt es **keine** veröffentlichte Millimetergrenze
+> (siehe Abschnitt Bremsen).
+
+## Prüfintervalle Personenwagen (Schweiz)
+- Erste MFK nach 4 Jahren, zweite nach 3 Jahren, danach alle 2 Jahre (laut reifen.com, neukomm-garage.ch) ✅.
+- Umbauten/Tuning: ausserordentliche Prüfung nötig ✅ (neukomm-garage.ch).
+
+## Was bei der MFK geprüft wird (Checkliste reifen.com)
+
+| Bereich | Geprüft wird |
+|---------|--------------|
+| Unterlagen | Fahrzeugausweis, Gutachten bei Umbauten |
+| Karosserie | Roststellen, Schäden, Kontrollschilder |
+| Beleuchtung | Abblend-, Fern-, Stand-, Brems-, Nebelschlussleuchten, Blinker |
+| Scheiben, Spiegel | Risse/Steinschläge im Sichtfeld, Spiegel vorhanden und fest |
+| Räder, Reifen | Reifengröße laut Ausweis, mindestens 1,6 mm Profil, Beschädigungen, Felgen, Radmuttern |
+| Sicherheit | Gurte, Kopfstützen, Warndreieck |
+| Kontrollleuchten | ABS, ESP, Airbag, Motorkontrolle dürfen nicht dauernd leuchten |
+| Fahrwerk | Stoßdämpfer (Leckage, Nachschwingen), Federn, Lager |
+| Bremsen | Beläge, Scheiben, Leitungen, Bremsflüssigkeitsstand |
+| Flüssigkeiten, Lecks | Öl, Kühlmittel, Waschwasser; aktive Undichtigkeit = erheblicher Mangel |
+| Elektrik | Hupe, Scheibenwischer, Heizung/Gebläse |
+
+Typische Prüfstellen beim GTI (⚠️ Einschätzung): Bremsen, Fahrwerksspiel, Scheinwerferzustand.
+
+## Verschleißteile um ca. 150.000 km
+
+| Teil | Hinweis | Status |
+|------|---------|--------|
+| **Zahnriemen + Wasserpumpe** | GTI (Edition 30, BYD): Wechselintervall laut repareo 180.000 km, ein Forum nennt ebenfalls 180.000 km. Bei 150.000 km laut VW noch nicht fällig, vorsorglich aber oft sinnvoll | repareo ✅, Rest ⚠️ |
+| **DSG-Mechatronik** (nur DSG DQ250) | Ausfälle ab 150.000 km dokumentiert | guteautoschlechteauto.de ✅ |
+| **Zündkerzen, Zündspulen** | als häufige Ursache für Aussetzer genannt | deinmotorschaden.de ⚠️ |
+| **Stoßdämpfer, Koppelstangen, Fahrwerkslager** | Poltern/Nachschwingen deutet auf Verschleiß, MFK-relevant (Teilenummern siehe Abschnitt Fahrwerk) | reifen.com ✅ |
+| **Radlager** | Heulen/Brummen, wird mit dem Tempo lauter | reifen.com ✅ |
+| **Bremsscheiben, Beläge** | siehe Werte im Abschnitt Bremsen | Doku ✅ |
+| **Kupplung, Zweimassenschwungrad** | Zeitpunkt abhängig vom Fahrstil, keine Quelle gefunden | ⚠️ |
+| **Bremsflüssigkeit, Kühlmittel** | Wechsel nach Zeit, nicht nach km | ⚠️ Einschätzung |
+
+Hinweis: deinmotorschaden.de nennt für den GTI eine Steuerkette, repareo (mit Herstellerdaten) einen
+Zahnriemen → repareo als verlässlicher einstufen ⚠️.
+
+## Quellen
+- MFK-Checkliste: https://www.reifen.com/de-ch/infos-tipps/auto/pflege/mfk-checkliste
+- Prüfintervalle: https://neukomm-garage.ch/wie-bereite-ich-mein-auto-auf-die-mfk-vor/
+- Zahnriemen Golf 5: https://www.repareo.de/zahnriemenwechsel-golf-5/
+- DSG DQ250: https://guteautoschlechteauto.de/vw/golf-5
+- Golf 5 GTI Motorprobleme: https://www.deinmotorschaden.de/golf-5-gti-motor/
+- TCS MFK-Vortest Aargau: https://www.tcs.ch/de/der-tcs/sektionen/aargau/content/fahrzeugkontrollen/tcs-mfk-vortest.php
+
+*Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
