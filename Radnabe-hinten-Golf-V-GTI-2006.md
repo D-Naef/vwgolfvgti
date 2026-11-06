@@ -457,10 +457,14 @@ Hinweise:
 
 ## Bremsbeläge
 
-| Achse | Dicke neu (inkl. Trägerplatte) | Mindestdicke | Status |
-|-------|--------------------------------|--------------|--------|
-| **Hinten** (zu 282-mm-Scheibe) | **17,2 mm** (Breite 105,5 mm, Höhe 56,5 mm) | siehe unten | ✅ (bandel-online Set) |
-| **Vorne** (zu 312-mm-Scheibe) | ❌ für den GTI nicht eindeutig belegt | siehe unten | ❌ |
+| Achse | Dicke neu (inkl. Trägerplatte) | **Mindestdicke Belag** | Status |
+|-------|--------------------------------|------------------------|--------|
+| **Hinten** (zu 282-mm-Scheibe) | **17,2 mm** (Breite 105,5 mm, Höhe 56,5 mm) | **ca. 3 mm Reibmaterial** (Faustregel; Wechsel darunter) | Neu ✅, Minimum ⚠️ (allgemein, kein VW-Wert) |
+| **Vorne** (zu 312-mm-Scheibe) | ❌ für den GTI nicht eindeutig belegt | **ca. 3 mm Reibmaterial** (Faustregel; Wechsel darunter) | Neu ❌, Minimum ⚠️ (allgemein, kein VW-Wert) |
+
+> **Minimale Belagdicke: ca. 3 mm Reibmaterial (ohne Trägerplatte).** Quellen nennen 2–3 mm.
+> Ein VW-spezifischer Wert für den Golf V GTI ist **nicht gefunden** ❌. Für die MFK gibt es
+> **keine** veröffentlichte Millimetergrenze (siehe Abschnitt Strassenverkehrsamt).
 
 Mindestdicke Beläge:
 - Allgemeine Faustregel (herstellerunabhängig): Wechsel bei **unter 3 mm Reibmaterial**

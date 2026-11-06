@@ -31,8 +31,14 @@ Dokumentation und Teileübersicht für den VW Golf V GTI 2.0 (Baujahr 2006, Typ 
 | Vorne | Ø 312 mm, belüftet | 25 mm | 22 mm | ✅ Datenblätter |
 | Hinten | Ø 282 mm, voll | 12 mm | 10 mm | ✅ Datenblätter |
 
-> Es gilt der auf der Scheibe eingestanzte Wert ("MIN TH"). Belag-Minimum, VW-Wert und
-> MFK-Grenze Aargau: siehe Abschnitt in der Doku (teils nicht belegt).
+| Bremsbelag | Neu | Minimum | Status |
+|------------|-----|---------|--------|
+| Hinten | 17,2 mm (inkl. Trägerplatte) | ca. 3 mm Reibmaterial | Neu ✅, Minimum ⚠️ Faustregel |
+| Vorne | nicht belegt | ca. 3 mm Reibmaterial | Neu ❌, Minimum ⚠️ Faustregel |
+
+> Es gilt der auf der Scheibe eingestanzte Wert ("MIN TH"). Belag-Minimum: allgemeine
+> Faustregel (2–3 mm), **kein VW-Wert** und **keine MFK-Grenze Aargau** gefunden – Details
+> in der Doku.
 > ⚠️ Teilenummer Bremsbelagsatz hinten (1K0 698 451) ist für die 282-mm-Scheibe **unbestätigt** – per PR-Nummer/FIN prüfen.
 
 > ⚠️ Alle Angaben gelten für Frontantrieb. Scheibengröße über PR-Nummer / FIN prüfen.
