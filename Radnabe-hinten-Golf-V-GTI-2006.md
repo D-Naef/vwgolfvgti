@@ -721,9 +721,21 @@ Marken-Tipp (siehe Heckwischer-Abschnitt): Original VW, dann METZGER; VAICO nich
 1. Scheinwerfer ausbauen oder Karosserie/Umgebung sauber abkleben.
 2. Schleifen (nass, von grob nach fein) bis die Fläche gleichmäßig matt ist.
 3. Gründlich reinigen und entfetten.
-4. **Primer** (Haftvermittler für Polycarbonat) – oder Produkt mit integriertem Primer (siehe unten).
-5. **2K-Scheinwerfer-Klarlack** in dünnen Schichten, laut Herstellerangabe aushärten lassen.
-6. Optional nach dem Aushärten anpolieren.
+4. **Tempern vor dem Lackieren: 60 Minuten bei 60 °C** (Angabe vom Nutzer, nicht in den
+   recherchierten Quellen geprüft ⚠️; siehe Hinweise unten).
+5. **Primer** (Haftvermittler für Polycarbonat) – oder Produkt mit integriertem Primer (siehe unten).
+6. **2K-Scheinwerfer-Klarlack** in dünnen Schichten, laut Herstellerangabe aushärten lassen.
+7. Optional nach dem Aushärten anpolieren.
+
+### Hinweise zum Tempern (60 min / 60 °C)
+- Die Angabe **60 min bei 60 °C** stammt vom Nutzer. In den für diese Doku gelesenen Quellen steht
+  sie nicht ⚠️ – im Zweifel mit der Anleitung/dem technischen Merkblatt des gewählten Primers/Klarlacks
+  abgleichen.
+- Nur die **ausgebaute Streuscheibe bzw. Teile ohne Elektronik, Dichtungen und Klebstoff** tempern.
+  Komplette Scheinwerfer mit Lampenfassungen, Stellmotoren, Kabeln, Gummidichtungen und Dichtmasse können
+  bei Wärme Schaden nehmen ⚠️ (allgemeine Vorsicht, nicht geprüft).
+- Temperatur im Ofen mit einem **separaten Thermometer** kontrollieren; vor dem Lackieren auf
+  Raumtemperatur abkühlen lassen und nicht mit bloßen Fingern auf die Lackierfläche greifen.
 
 ## Produkte (Herstellerangaben)
 
