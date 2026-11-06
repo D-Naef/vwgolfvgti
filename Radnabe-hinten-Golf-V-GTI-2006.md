@@ -655,3 +655,43 @@ Marken-Empfehlung: FAG oder SKF (Erstausrüster-Niveau).
 Marken-Tipp (siehe Heckwischer-Abschnitt): Original VW, dann METZGER; VAICO nicht.
 
 *Inhalte wurden zur Einhaltung von Lizenzbestimmungen zusammengefasst und umformuliert.*
+
+---
+
+# 🧾 Einkaufsliste mit Shop-Priorität (Hinterachse + Heckwischer)
+
+> Ergänzt die Einkaufsliste weiter oben. Reihenfolge der Shops: **1. motointegrator.de,
+> 2. bandel-online.de, 3. kfzteile24.de** (Reihenfolge = persönliche Präferenz, keine Preisaussage).
+> Kein AUTODOC / pkwteile.de. Bestellen immer per **OE-Nummer + FIN**. Details und Links: Abschnitt
+> "Bestellempfehlung".
+
+## Hinterachse (beide Seiten)
+| Menge | Teil | OE-Nummer | Marken-Tipp | Shop-Hinweis | Status |
+|-------|------|-----------|-------------|--------------|--------|
+| 2× | Radnabe / Radlagersatz | 1K0 598 611 | FAG, SKF | bandel (SKF, Produktseite), kfzteile24/motointegrator (Suche per OE) | ⚠️ **30 vs. 32 mm** Innendurchmesser vorher klären |
+| 1× | ABS-Sensor hinten links | 1K0 927 807 | Bosch, Febi | per OE in den Shops suchen | 🔎 keine Produktseite gefunden |
+| 1× | ABS-Sensor hinten rechts | 1K0 927 808 | Bosch, Febi | per OE in den Shops suchen | 🔎 keine Produktseite gefunden |
+| 2× | Bremsscheibe hinten 282×12 | 1K0 615 601 AD (ATE 24.0112-0169.1) | ATE, Zimmermann | bandel-online Set (282 mm) | ✅ Set gefunden, Größe per PR-Nummer prüfen |
+| 1× | Bremsbelagsatz hinten | ⚠️ **unbestätigt** (1K0 698 451 passt laut Händlerangaben zur 249-mm-Scheibe) | ATE, TRW | im Set bei bandel enthalten | ⚠️ per PR-Nummer/FIN klären |
+| nach Bedarf | selbstsichernde Bremssattel-Schrauben | — | OE | VW-Händler / Shop | — |
+| 1× | Montage-/Kupferpaste, Bremsenreiniger | — | — | beliebig | — |
+
+## Vorderachse (nur bei Bedarf)
+| Menge | Teil | Nummer | Shop-Hinweis | Status |
+|-------|------|--------|--------------|--------|
+| 2× | Bremsscheibe vorne 312×25 | ATE 24.0125-0158.1 | bandel-online (ATE Ceramic Set / Brembo) | ⚠️ 312 mm im Shop prüfen; bei motointegrator nicht gefunden |
+| 1× | Bremsbelagsatz vorne | per PR-Nummer/FIN | im Set enthalten | ❌ Dicke/Nummer für GTI nicht eindeutig belegt |
+
+## Heckwischer
+| Menge | Teil | OE-Nummer | Marken-Tipp | Status |
+|-------|------|-----------|-------------|--------|
+| 1× | Heckwischerarm (Schrägheck 1K1) | 6Q6 955 707 C | Original VW, dann METZGER (nicht VAICO) | ❌ in den bevorzugten Shops nichts gefunden → VW-Händler |
+| 1× | Wischerblatt hinten | 6Q6 955 425 A | Original VW / METZGER | ⚠️ Händlerangabe |
+| bei Bedarf | Heckwischermotor | 1K6 955 711 B / C | Original VW | ⚠️ Händlerangabe |
+
+## Vor dem Bestellen (Checkliste)
+- [ ] PR-Nummer (Bremsen) und FIN bereithalten
+- [ ] Radlager: Innendurchmesser 30 oder 32 mm an der alten Nabe geprüft
+- [ ] Scheibengröße hinten gemessen (282 vs. 272 mm)
+- [ ] Nur Frontantrieb-Nummern (nicht 4motion)
+- [ ] Heckwischerarm: Schrägheck (1K1), nicht Variant (1K5)
